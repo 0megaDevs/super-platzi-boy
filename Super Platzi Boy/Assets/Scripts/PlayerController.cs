@@ -4,12 +4,13 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float jumpForce = 6f;
+    public float jumpForce = 7f;
     Rigidbody2D rigidBody;
     Animator animator;
 
     const string STATE_MOVING = "isMoving";
     const string STATE_ON_THE_GROUND = "isOnTheGround";
+    const string VERTICAL_FORCE = "verticalForce";
 
     public LayerMask groundMask;
 
@@ -34,6 +35,7 @@ public class PlayerController : MonoBehaviour
             Jump();
         }
         animator.SetBool(STATE_ON_THE_GROUND, IsTouchingTheGround());
+        animator.SetFloat(VERTICAL_FORCE, rigidBody.velocity.y);
         Debug.DrawRay(this.transform.position, Vector2.down * 1.2f, Color.red);
     }
 
