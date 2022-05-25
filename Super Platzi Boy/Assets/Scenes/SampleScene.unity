@@ -293,6 +293,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jumpForce: 6
+  runningSpeed: 2
   groundMask:
     serializedVersion: 2
     m_Bits: 64
@@ -316,8 +317,12 @@ PrefabInstance:
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2474176500365101832, guid: 36c1bda02191ea8478be9a011c33feaa, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 2474176500365101832, guid: 36c1bda02191ea8478be9a011c33feaa, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -2.39
       objectReference: {fileID: 0}
     - target: {fileID: 2474176500365101832, guid: 36c1bda02191ea8478be9a011c33feaa, type: 3}
       propertyPath: m_LocalPosition.y
@@ -370,7 +375,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2751384890194106024, guid: 478789142c377764381227f677939534, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -8.14
       objectReference: {fileID: 0}
     - target: {fileID: 2751384890194106024, guid: 478789142c377764381227f677939534, type: 3}
       propertyPath: m_LocalPosition.y
