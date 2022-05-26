@@ -12,10 +12,9 @@ GameObject:
   - component: {fileID: 2751384890194106025}
   - component: {fileID: 2751384890194106030}
   - component: {fileID: 2075806038}
-  - component: {fileID: 2075806040}
   - component: {fileID: 2075806039}
   - component: {fileID: 6094403803929406270}
-  - component: {fileID: 443448970065379842}
+  - component: {fileID: 7866861682282805735}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -126,23 +125,6 @@ CapsuleCollider2D:
   m_Offset: {x: -0.033226848, y: 0.053518176}
   m_Size: {x: 0.78267384, y: 2.1529634}
   m_Direction: 0
---- !u!114 &2075806040
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2751384890194106031}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d154396cbee62d64899714957e0519fe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  jumpForce: 6
-  runningSpeed: 2
-  groundMask:
-    serializedVersion: 2
-    m_Bits: 64
 --- !u!50 &2075806039
 Rigidbody2D:
   serializedVersion: 4
@@ -162,7 +144,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!70 &6094403803929406270
 CapsuleCollider2D:
@@ -180,7 +162,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.033226848, y: 0.053518176}
   m_Size: {x: 0.78267384, y: 2.1529634}
   m_Direction: 0
---- !u!114 &443448970065379842
+--- !u!114 &7866861682282805735
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -192,8 +174,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d154396cbee62d64899714957e0519fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 6
-  runningSpeed: 2
+  jumpForce: 10
+  runningSpeed: 4
   groundMask:
     serializedVersion: 2
     m_Bits: 64
