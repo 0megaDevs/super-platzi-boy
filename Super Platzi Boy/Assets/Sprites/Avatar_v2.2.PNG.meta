@@ -641,7 +641,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Avatar_v2.2_41
+      name: wall_slide1
       rect:
         serializedVersion: 2
         x: 430
@@ -662,7 +662,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Avatar_v2.2_44
+      name: wall_slide2
       rect:
         serializedVersion: 2
         x: 644
@@ -683,7 +683,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Avatar_v2.2_45
+      name: wall_slide3
       rect:
         serializedVersion: 2
         x: 825
@@ -704,11 +704,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Avatar_v2.2_46
+      name: wall_slide4
       rect:
         serializedVersion: 2
         x: 1007
-        y: 614
+        y: 612
         width: 113
         height: 223
       alignment: 0
@@ -1035,9 +1035,7 @@ TextureImporter:
       run12: -1339746926
       Avatar_v2.2_33: -1303703062
       run3: -408316711
-      Avatar_v2.2_45: 1783585505
       jump11: -760841857
-      Avatar_v2.2_46: 1573108332
       Avatar_v2.2_76: 379117588
       jump7: -889012859
       Avatar_v2.2_30: -1190938044
@@ -1052,6 +1050,7 @@ TextureImporter:
       Avatar_v2.2_91: -1190252908
       Avatar_v2.2_35: 2095181150
       Avatar_v2.2_47: -1424875433
+      wall_slide3: 1783585505
       Avatar_v2.2_11: 1543559155
       Avatar_v2.2_34: -1962363546
       Avatar_v2.2_29: -1939369960
@@ -1062,7 +1061,6 @@ TextureImporter:
       jump9: 1411132188
       Avatar_v2.2_85: 1604233234
       run7: 1043973469
-      Avatar_v2.2_44: -1444378834
       Avatar_v2.2_53: -851782167
       Avatar_v2.2_61: -2074750659
       Avatar_v2.2_77: 1558188292
@@ -1075,13 +1073,13 @@ TextureImporter:
       Avatar_v2.2_67: -1254738286
       Avatar_v2.2_31: 1122282902
       Avatar_v2.2_73: 1753713821
-      Avatar_v2.2_41: -455984783
       Avatar_v2.2_63: -135132187
       Avatar_v2.2_40: -948753779
       run1: 1742773925
       jump2: 1785679469
       Avatar_v2.2_71: 607454176
       Avatar_v2.2_81: -1736649580
+      wall_slide2: -1444378834
       Avatar_v2.2_87: -1548857250
       Avatar_v2.2_80: -169796716
       Avatar_v2.2_37: 1795467267
@@ -1099,6 +1097,7 @@ TextureImporter:
       jump5: 1862205564
       Avatar_v2.2_90: 67744164
       Avatar_v2.2_75: -349947087
+      wall_slide1: -455984783
       Avatar_v2.2_36: 668375194
       Avatar_v2.2_72: -1957920171
       run10: 1755607686
@@ -1111,10 +1110,11 @@ TextureImporter:
       Avatar_v2.2_56: -786058284
       Avatar_v2.2_28: 1905155109
       Avatar_v2.2_43: -1706021413
-      Avatar_v2.2_84: 609015824
       Avatar_v2.2_54: 181000454
-      jump10: -448050131
+      Avatar_v2.2_84: 609015824
+      wall_slide4: 1573108332
       Avatar_v2.2_42: 199416764
+      jump10: -448050131
       Avatar_v2.2_82: -864314677
       Avatar_v2.2_58: 933527943
       run6: 32160671
