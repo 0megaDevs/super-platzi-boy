@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 70f2c209290396b489502323df2966eb
+guid: 4cf0b81296e784e4d908a6a26c068a72
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -119,19 +119,19 @@ TextureImporter:
       name: run1
       rect:
         serializedVersion: 2
-        x: 52
-        y: 1395
-        width: 157
-        height: 219
+        x: 19
+        y: 1184
+        width: 159
+        height: 223
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c40627b5ba4234b4a8e0a5a36840c8d7
-      internalID: -1629600757
+      spriteID: e468b9a927a10df409388997178e7ba6
+      internalID: 1742773925
       vertices: []
       indices: 
       edges: []
@@ -140,19 +140,19 @@ TextureImporter:
       name: run2
       rect:
         serializedVersion: 2
-        x: 255
-        y: 1394
-        width: 125
-        height: 225
+        x: 218
+        y: 1186
+        width: 141
+        height: 221
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3074ba32a33bdd34a998d431691165e3
-      internalID: 266100625
+      spriteID: 931485a11c5c67148b198c68815843f7
+      internalID: 1931343332
       vertices: []
       indices: 
       edges: []
@@ -161,19 +161,19 @@ TextureImporter:
       name: run3
       rect:
         serializedVersion: 2
-        x: 434
-        y: 1393
-        width: 88
-        height: 223
+        x: 404
+        y: 1180
+        width: 130
+        height: 228
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 35e6d343ffc4e9f4b80de1935fbe5e8e
-      internalID: -1709066062
+      spriteID: bac1766d19b0c0e489aa102cffadc6c3
+      internalID: -408316711
       vertices: []
       indices: 
       edges: []
@@ -182,19 +182,19 @@ TextureImporter:
       name: run4
       rect:
         serializedVersion: 2
-        x: 559
-        y: 1391
-        width: 139
-        height: 220
+        x: 552
+        y: 1176
+        width: 102
+        height: 227
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9a87cb27109f6c459a2700745d4c2a9
-      internalID: 1229339891
+      spriteID: 8b3a584cc7426c64eadb38445d3a35ae
+      internalID: -560014105
       vertices: []
       indices: 
       edges: []
@@ -203,19 +203,19 @@ TextureImporter:
       name: run5
       rect:
         serializedVersion: 2
-        x: 718
-        y: 1383
-        width: 158
-        height: 221
+        x: 707
+        y: 1181
+        width: 79
+        height: 226
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 098c2cf5fff24fc48bf545d16417274e
-      internalID: 174492377
+      spriteID: 98460dbbbd4f7c341ac706a8dff4efb6
+      internalID: -951175562
       vertices: []
       indices: 
       edges: []
@@ -224,19 +224,19 @@ TextureImporter:
       name: run6
       rect:
         serializedVersion: 2
-        x: 900
-        y: 1387
-        width: 138
-        height: 217
+        x: 839
+        y: 1182
+        width: 121
+        height: 225
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e02df89a35ce8fa458cfbbab89405eed
-      internalID: -239097652
+      spriteID: e48d07ccbe6034d49a2e6d7ef8f1da1e
+      internalID: 32160671
       vertices: []
       indices: 
       edges: []
@@ -245,19 +245,19 @@ TextureImporter:
       name: run7
       rect:
         serializedVersion: 2
-        x: 1091
-        y: 1388
-        width: 113
-        height: 218
+        x: 1012
+        y: 1186
+        width: 145
+        height: 225
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2826e8f93cbbe4a4f931c498ca8c9dc7
-      internalID: 432579454
+      spriteID: 3184cb40e62b5374390bcaba307d5a6f
+      internalID: 1043973469
       vertices: []
       indices: 
       edges: []
@@ -266,19 +266,19 @@ TextureImporter:
       name: run8
       rect:
         serializedVersion: 2
-        x: 1266
-        y: 1376
-        width: 94
-        height: 239
+        x: 1171
+        y: 1178
+        width: 164
+        height: 227
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e507c3b4f65d6d44ea80c995c00bbaf9
-      internalID: -2145711117
+      spriteID: 1ca93d530ff3e1e498acbbabf67896d3
+      internalID: -695167169
       vertices: []
       indices: 
       edges: []
@@ -287,145 +287,82 @@ TextureImporter:
       name: run9
       rect:
         serializedVersion: 2
-        x: 1410
-        y: 1379
-        width: 132
-        height: 237
+        x: 1352
+        y: 1181
+        width: 144
+        height: 223
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21bb80c469b653c41997115a81c2c5f9
-      internalID: -1426512223
+      spriteID: b98de486043e41f4395bdb585b68fb90
+      internalID: -319664587
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Avatar_9
+      name: run10
       rect:
         serializedVersion: 2
-        x: 285
-        y: 1296
-        width: 62
-        height: 66
+        x: 1517
+        y: 1167
+        width: 103
+        height: 243
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 76e72d8811c5b6b4ea15cbbe9b167d27
-      internalID: -1139332571
+      spriteID: afdce08570ab6484d8885d21a81b52a7
+      internalID: 1755607686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Avatar_10
+      name: run11
       rect:
         serializedVersion: 2
-        x: 458
-        y: 1293
-        width: 56
-        height: 59
+        x: 1661
+        y: 1169
+        width: 137
+        height: 243
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b68eb01f8bf956459bfac444992845f
-      internalID: 495701434
+      spriteID: 026506cd8938fcf459844dee04d80f42
+      internalID: -370121687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Avatar_11
+      name: run12
       rect:
         serializedVersion: 2
-        x: 603
-        y: 1284
-        width: 64
-        height: 60
+        x: 1832
+        y: 1169
+        width: 149
+        height: 235
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 570273c0cc5caf947a4cc2df3fe2a40b
-      internalID: 1072991573
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_12
-      rect:
-        serializedVersion: 2
-        x: 951
-        y: 1278
-        width: 63
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b75f323a5a7394c4eadbbf0be643aca5
-      internalID: 1751485346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_13
-      rect:
-        serializedVersion: 2
-        x: 1278
-        y: 1280
-        width: 63
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 958c2d92a38e8dd4984b6ac7edc675de
-      internalID: 1270356012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_14
-      rect:
-        serializedVersion: 2
-        x: 1435
-        y: 1267
-        width: 66
-        height: 70
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 166be66eeb7859e48b156471b9259a43
-      internalID: -489876904
+      spriteID: 2a332e04c096ce449858c2cb9d592d53
+      internalID: -1339746926
       vertices: []
       indices: 
       edges: []
@@ -434,19 +371,19 @@ TextureImporter:
       name: jump1
       rect:
         serializedVersion: 2
-        x: 65
-        y: 997
-        width: 127
-        height: 226
+        x: 24
+        y: 914
+        width: 130
+        height: 230
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c366fa37cde12b84f855d7cebe97744c
-      internalID: 1348732920
+      spriteID: cb33fcf84d85808458d597ea7aa2b025
+      internalID: -1982172674
       vertices: []
       indices: 
       edges: []
@@ -455,565 +392,19 @@ TextureImporter:
       name: jump2
       rect:
         serializedVersion: 2
-        x: 206
-        y: 999
-        width: 143
-        height: 215
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e2bb6b512ad976489182a1320ef16b5
-      internalID: -527106837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_17
-      rect:
-        serializedVersion: 2
-        x: 362
-        y: 1003
-        width: 135
-        height: 191
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06779ea1857fe9948be9aaf224deb9ac
-      internalID: -936249566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_18
-      rect:
-        serializedVersion: 2
-        x: 578
-        y: 1014
-        width: 84
-        height: 221
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eb3d268e9fb216b40a9f2d50d119d9f7
-      internalID: 37966282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_19
-      rect:
-        serializedVersion: 2
-        x: 718
-        y: 1045
-        width: 137
-        height: 195
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d5a2203418214c44892ac91f87d1bd4
-      internalID: 1257805544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jump6
-      rect:
-        serializedVersion: 2
-        x: 908
-        y: 1032
-        width: 132
-        height: 203
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e6cf4fcad92c934a93db854b22dfe77
-      internalID: 1201285719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_21
-      rect:
-        serializedVersion: 2
-        x: 1064
-        y: 1002
-        width: 170
-        height: 164
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 261a22097c2b29545ad3cc53717d84cf
-      internalID: 1158716699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_22
-      rect:
-        serializedVersion: 2
-        x: 1270
-        y: 1003
+        x: 175
+        y: 914
         width: 148
-        height: 207
+        height: 217
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3c26d7117162074dab783e6564c491c
-      internalID: 1650210234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_23
-      rect:
-        serializedVersion: 2
-        x: 1424
-        y: 998
-        width: 193
-        height: 229
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cca81f29d8d66ad49b3f7728cbd10be1
-      internalID: 1340701672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_24
-      rect:
-        serializedVersion: 2
-        x: 718
-        y: 1028
-        width: 13
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96543c8ad20a49f479191a390d13a6cf
-      internalID: -1860082541
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_25
-      rect:
-        serializedVersion: 2
-        x: 842
-        y: 1033
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6a4298dce5e5d5143916eb62a06cf820
-      internalID: -645104115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_26
-      rect:
-        serializedVersion: 2
-        x: 532
-        y: 1014
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 76fc33323cbada44396d4c65c73d8baa
-      internalID: 1518579699
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_27
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 1020
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f6aa8b7ac8e394146a73e5689364dfc4
-      internalID: 523263928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_28
-      rect:
-        serializedVersion: 2
-        x: 646
-        y: 1002
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c7c3a51f027df024bb6c67985da6f63d
-      internalID: 408886862
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_29
-      rect:
-        serializedVersion: 2
-        x: 664
-        y: 1020
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f7f5e1a023c89348ab75b447ebc29ee
-      internalID: 569260832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_30
-      rect:
-        serializedVersion: 2
-        x: 729
-        y: 1022
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aa323a134adf5504c9d414f863575d25
-      internalID: -1142637668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_31
-      rect:
-        serializedVersion: 2
-        x: 836
-        y: 1022
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 875a72c005471d7409c9f8d8e5292224
-      internalID: -880009594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_32
-      rect:
-        serializedVersion: 2
-        x: 1224
-        y: 1019
-        width: 15
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d9c335242a51d545a3f5a1c819d7668
-      internalID: -594377550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_33
-      rect:
-        serializedVersion: 2
-        x: 1264
-        y: 1016
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7f2a138aa65dcf4592fe5ada7c1fb01
-      internalID: -1759501873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_34
-      rect:
-        serializedVersion: 2
-        x: 1396
-        y: 1003
-        width: 26
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 846b695fea82c9541a00c7be75f725b1
-      internalID: -471315468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_35
-      rect:
-        serializedVersion: 2
-        x: 1420
-        y: 1015
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 76e98ea7574dfad4aa4d613cfce581ca
-      internalID: -499547165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_36
-      rect:
-        serializedVersion: 2
-        x: 494
-        y: 1003
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c70b86bf67072c419bf4d69027d01e5
-      internalID: 1870000000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_37
-      rect:
-        serializedVersion: 2
-        x: 544
-        y: 1009
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2728baef214744f4db5ddb6213acb6a0
-      internalID: -1224814032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_38
-      rect:
-        serializedVersion: 2
-        x: 554
-        y: 1002
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40577f4bdda0ee143a69b22ecc01ccd4
-      internalID: -1558687310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_39
-      rect:
-        serializedVersion: 2
-        x: 669
-        y: 1009
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b0d09d98b7b79c84995ecc06caf6ebea
-      internalID: -1908667019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_40
-      rect:
-        serializedVersion: 2
-        x: 1236
-        y: 1008
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e985ca16a96208e48831f6735ef9a348
-      internalID: 1643957745
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_41
-      rect:
-        serializedVersion: 2
-        x: 1461
-        y: 999
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 03856403fd8524543bbda0463f6e1743
-      internalID: -1615736221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_42
-      rect:
-        serializedVersion: 2
-        x: 237
-        y: 902
-        width: 65
-        height: 68
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20f53d51c34636648a2d78ec445c4016
-      internalID: 1548177354
+      spriteID: f149dab03017be244852d44092048f23
+      internalID: 1785679469
       vertices: []
       indices: 
       edges: []
@@ -1022,19 +413,19 @@ TextureImporter:
       name: jump3
       rect:
         serializedVersion: 2
-        x: 355
-        y: 767
-        width: 134
-        height: 190
+        x: 345
+        y: 914
+        width: 140
+        height: 195
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 491d783bdbae49c45ab8db0fc6579eb3
-      internalID: -1049743956
+      spriteID: fee8b08eec654fe4388fd3db2a7e4fd7
+      internalID: -170359136
       vertices: []
       indices: 
       edges: []
@@ -1043,19 +434,19 @@ TextureImporter:
       name: jump4
       rect:
         serializedVersion: 2
-        x: 563
-        y: 746
-        width: 81
-        height: 216
+        x: 541
+        y: 907
+        width: 89
+        height: 219
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cba13a38cc79c6e46bd54fcfcc65d50d
-      internalID: -147805262
+      spriteID: 29fc238a6ffe2114db9cd3f62fe1ae6b
+      internalID: -1086131857
       vertices: []
       indices: 
       edges: []
@@ -1064,19 +455,40 @@ TextureImporter:
       name: jump5
       rect:
         serializedVersion: 2
-        x: 694
-        y: 768
-        width: 139
-        height: 198
+        x: 671
+        y: 927
+        width: 108
+        height: 221
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c65a03bc34d79f40a2f0bfbacf151e8
-      internalID: -1892174410
+      spriteID: 4577043fca9183446b0d7be3a12cbc8d
+      internalID: 1862205564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 937
+        width: 125
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dceffb5f057e73143ae7c1dc57d2e727
+      internalID: -194525701
       vertices: []
       indices: 
       edges: []
@@ -1085,19 +497,19 @@ TextureImporter:
       name: jump7
       rect:
         serializedVersion: 2
-        x: 1075
-        y: 774
-        width: 133
-        height: 165
+        x: 943
+        y: 956
+        width: 141
+        height: 198
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5adbf2218ebe954a934335340b92c74
-      internalID: 1596257758
+      spriteID: 155afcdcee89643429734cf740182bf8
+      internalID: -889012859
       vertices: []
       indices: 
       edges: []
@@ -1106,40 +518,502 @@ TextureImporter:
       name: jump8
       rect:
         serializedVersion: 2
-        x: 1262
-        y: 750
-        width: 153
-        height: 208
+        x: 1108
+        y: 933
+        width: 137
+        height: 207
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 1, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c372426eaf3c86347ac1c8587e52362d
-      internalID: 352630114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Avatar_48
-      rect:
-        serializedVersion: 2
-        x: 1508
-        y: 905
-        width: 64
-        height: 62
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 353d57dd5b5a616458425cd78e1ef8bc
-      internalID: -279754117
+      spriteID: 79659be8c30b7d44e961b5d30698661a
+      internalID: 462492241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump9
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 928
+        width: 140
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ddd76a56308f04787cf85537a86de1
+      internalID: 1411132188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump10
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 926
+        width: 155
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1f69064e26d924a8d043c3381c3066
+      internalID: -448050131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump11
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 923
+        width: 164
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f640abcb6199df4eaea7a8570e41e8b
+      internalID: -760841857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 671
+        width: 143
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c9c7834f10f0540be793085730a9cd
+      internalID: 2023057356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_40
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 649
+        width: 138
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d354b40269ae943b8d856fc31a4a36
+      internalID: -948753779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_41
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 642
+        width: 103
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9306d0e42af154ba9811e9adcc1bd8
+      internalID: -455984783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_44
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 621
+        width: 99
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43492bd23271bc94b9737e19eebe4443
+      internalID: -1444378834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_45
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 609
+        width: 104
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002667b060879b9419cafe13236c5b5a
+      internalID: 1783585505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_46
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 614
+        width: 113
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70522e2e25565c84e961e60c302e6e40
+      internalID: 1573108332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_48
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 635
+        width: 141
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8712b286ff3f2d46b551d006478d056
+      internalID: -364729039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_49
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 620
+        width: 164
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833f81a597af0940b0b9f5604be8d54
+      internalID: -1939012661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_50
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 622
+        width: 155
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991218057ad6eb44380b4bb8c5fb52c9
+      internalID: 1600534649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_52
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 625
+        width: 140
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ee7647500cde4299d481955006759
+      internalID: 1424258361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_60
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 365
+        width: 115
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b799de26ce738f46b0972722f4b52af
+      internalID: 880975303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_61
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 365
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7843d737d9f3f84dbe3d7271dff72a2
+      internalID: -2074750659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_62
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 367
+        width: 139
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f638a6b1373e6e74285147929c0760ab
+      internalID: -2088077405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_63
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 363
+        width: 125
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3469b41d1b130a4d8b3b2c63bd9a212
+      internalID: -135132187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_65
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 377
+        width: 128
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae3ce3c8bf39c048b1b4f93610e5340
+      internalID: 1816763523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_66
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 377
+        width: 118
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5505bd1983ed08047b0cbba6055128cf
+      internalID: 1041980714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_68
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 382
+        width: 109
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4921026a0ad169641833bdef521b7b56
+      internalID: -328885004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_69
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 375
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e5b13e39bf07a4992e8b667e6f661d
+      internalID: -1226263762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_70
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 364
+        width: 124
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf1a7e9c7578c747bc402d1a23911a8
+      internalID: 1040858466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_v2.2_71
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 323
+        width: 144
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ca4df1e0890e442b96fd5d35365488
+      internalID: 607454176
       vertices: []
       indices: 
       edges: []
@@ -1155,55 +1029,100 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      run9: -1426512223
-      Avatar_9: -1139332571
-      Avatar_24: -1860082541
-      Avatar_11: 1072991573
-      Avatar_18: 37966282
-      run3: -1709066062
-      Avatar_29: 569260832
-      Avatar_33: -1759501873
-      jump7: 1596257758
-      jump6: 1201285719
-      Avatar_42: 1548177354
-      Avatar_19: 1257805544
-      Avatar_34: -471315468
-      run8: -2145711117
-      run2: 266100625
-      Avatar_21: 1158716699
-      jump1: 1348732920
-      Avatar_14: -489876904
-      Avatar_13: 1270356012
-      Avatar_17: -936249566
-      Avatar_31: -880009594
-      Avatar_25: -645104115
-      Avatar_22: 1650210234
-      Avatar_36: 1870000000
-      jump5: -1892174410
-      Avatar_12: 1751485346
-      Avatar_48: -279754117
-      Avatar_35: -499547165
-      Avatar_27: 523263928
-      Avatar_30: -1142637668
-      Avatar_37: -1224814032
-      jump8: 352630114
-      run5: 174492377
-      Avatar_40: 1643957745
-      run7: 432579454
-      run4: 1229339891
-      Avatar_10: 495701434
-      Avatar_39: -1908667019
-      jump4: -147805262
-      Avatar_23: 1340701672
-      run6: -239097652
-      Avatar_26: 1518579699
-      Avatar_41: -1615736221
-      Avatar_32: -594377550
-      run1: -1629600757
-      jump2: -527106837
-      jump3: -1049743956
-      Avatar_28: 408886862
-      Avatar_38: -1558687310
+      run9: -319664587
+      Avatar_v2.2_66: 1041980714
+      Avatar_v2.2_50: 1600534649
+      run12: -1339746926
+      Avatar_v2.2_33: -1303703062
+      run3: -408316711
+      Avatar_v2.2_45: 1783585505
+      jump11: -760841857
+      Avatar_v2.2_46: 1573108332
+      Avatar_v2.2_76: 379117588
+      jump7: -889012859
+      Avatar_v2.2_30: -1190938044
+      Avatar_v2.2_65: 1816763523
+      Avatar_v2.2_86: -74372533
+      Avatar_v2.2_55: 2071804277
+      run2: 1931343332
+      run8: -695167169
+      Avatar_v2.2_68: -328885004
+      Avatar_v2.2_52: 1424258361
+      Avatar_v2.2_15: 357462540
+      Avatar_v2.2_91: -1190252908
+      Avatar_v2.2_35: 2095181150
+      Avatar_v2.2_47: -1424875433
+      Avatar_v2.2_11: 1543559155
+      Avatar_v2.2_34: -1962363546
+      Avatar_v2.2_29: -1939369960
+      Avatar_v2.2_48: -364729039
+      Avatar_v2.2_74: -1932091329
+      Avatar_v2.2_49: -1939012661
+      run5: -951175562
+      jump9: 1411132188
+      Avatar_v2.2_85: 1604233234
+      run7: 1043973469
+      Avatar_v2.2_44: -1444378834
+      Avatar_v2.2_53: -851782167
+      Avatar_v2.2_61: -2074750659
+      Avatar_v2.2_77: 1558188292
+      jump4: -1086131857
+      Avatar_v2.2_27: 285712357
+      Avatar_v2.2_57: -850229269
+      Avatar_v2.2_69: -1226263762
+      Avatar_v2.2_13: -1564657348
+      Avatar_v2.2_32: 349245553
+      Avatar_v2.2_67: -1254738286
+      Avatar_v2.2_31: 1122282902
+      Avatar_v2.2_73: 1753713821
+      Avatar_v2.2_41: -455984783
+      Avatar_v2.2_63: -135132187
+      Avatar_v2.2_40: -948753779
+      run1: 1742773925
+      jump2: 1785679469
+      Avatar_v2.2_71: 607454176
+      Avatar_v2.2_81: -1736649580
+      Avatar_v2.2_87: -1548857250
+      Avatar_v2.2_80: -169796716
+      Avatar_v2.2_37: 1795467267
+      jump6: -194525701
+      Avatar_v2.2_64: -1886052865
+      Avatar_v2.2_60: 880975303
+      jump1: -1982172674
+      Avatar_v2.2_70: 1040858466
+      Avatar_v2.2_38: 1700966618
+      Avatar_v2.2_59: 2136881488
+      Avatar_v2.2_83: -1893970880
+      Avatar_v2.2_88: -458221802
+      Avatar_v2.2_79: 811131080
+      run11: -370121687
+      jump5: 1862205564
+      Avatar_v2.2_90: 67744164
+      Avatar_v2.2_75: -349947087
+      Avatar_v2.2_36: 668375194
+      Avatar_v2.2_72: -1957920171
+      run10: 1755607686
+      jump8: 462492241
+      Avatar_v2.2_39: 2023057356
+      Avatar_v2.2_78: -651310720
+      Avatar_v2.2_89: -287383022
+      Avatar_v2.2_62: -2088077405
+      run4: -560014105
+      Avatar_v2.2_56: -786058284
+      Avatar_v2.2_28: 1905155109
+      Avatar_v2.2_43: -1706021413
+      Avatar_v2.2_84: 609015824
+      Avatar_v2.2_54: 181000454
+      jump10: -448050131
+      Avatar_v2.2_42: 199416764
+      Avatar_v2.2_82: -864314677
+      Avatar_v2.2_58: 933527943
+      run6: 32160671
+      Avatar_v2.2_10: 117863101
+      Avatar_v2.2_92: 139719276
+      jump3: -170359136
+      Avatar_v2.2_93: 357900631
+      Avatar_v2.2_51: -1143801917
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
