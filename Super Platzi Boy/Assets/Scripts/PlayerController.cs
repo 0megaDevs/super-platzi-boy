@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
     public float wallSlidingSpeed = 1.5f;
 
     bool wallJumping;
-    public Vector2 wallJumpingForce = new Vector2(5f, 5f);
+    public Vector2 wallJumpingForce = new Vector2(5f, 10f);
     public float wallJumpTime = 1f;
 
     const string STATE_MOVING = "isMoving";
