@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D rigidBody;
     Animator animator;
     SpriteRenderer spriteRenderer;
+    Vector3 startPosition;
 
     bool isTouchingFront = false;
     public Transform frontCheck;
@@ -38,15 +39,23 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        startPosition = this.transform.position;
+        StartGame();
+    }
+
+    public void StartGame()
+    {
         animator.SetBool(STATE_MOVING, false);
         animator.SetBool(STATE_ON_THE_GROUND, false);
         animator.SetBool(STATE_SLIDING, false);
+        this.transform.position = startPosition;
+        this.rigidBody.velocity = Vector2.zero;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Jump"))
+        if (GameManager.instance.state == GameState.inGame && Input.GetButtonDown("Jump"))
         {
             Jump();
         }
@@ -75,8 +84,15 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        CaptureInput();
-        Move();
+        if (GameManager.instance.state == GameState.inGame)
+        {
+            CaptureInput();
+            Move();
+        }
+        else
+        {
+            rigidBody.velocity = new Vector2(0, rigidBody.velocity.y);
+        }
     }
 
     void Jump()
