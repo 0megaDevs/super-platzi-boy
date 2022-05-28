@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 2751384890194106030}
   - component: {fileID: 2075806038}
   - component: {fileID: 2075806039}
-  - component: {fileID: 7861600996735714857}
+  - component: {fileID: 4289176689546785103}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -177,7 +177,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!114 &7861600996735714857
+--- !u!114 &4289176689546785103
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -193,7 +193,7 @@ MonoBehaviour:
   runningSpeed: 6
   frontCheck: {fileID: 1059717323}
   wallSlidingSpeed: 1.5
-  wallJumpingForce: {x: 5, y: 5}
+  wallJumpingForce: {x: 5, y: 10}
   wallJumpTime: 1
   groundMask:
     serializedVersion: 2
