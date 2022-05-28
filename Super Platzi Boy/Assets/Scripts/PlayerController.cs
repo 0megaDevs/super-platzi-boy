@@ -74,17 +74,17 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private void OnDrawGizmos()
-    {
-        Gizmos.color = Color.red;
-        Gizmos.DrawSphere(this.transform.position, 0.8f);
-    }
 
     private void FixedUpdate()
     {
         CaptureInput();
         Move();
     }
+    /*private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawSphere(this.transform.position, 0.8f);
+    }*/
 
     void Jump()
     {
