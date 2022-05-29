@@ -54,9 +54,10 @@ public class PlayerController : MonoBehaviour
         animator.SetBool(STATE_ON_THE_GROUND, isTouchingTheGround);
         animator.SetFloat(VERTICAL_VELOCITY, rigidBody.velocity.y);
         animator.SetBool(STATE_MOVING, IsMoving());
-        Debug.DrawRay(this.transform.position, Vector2.down * 1.2f, Color.red);
+        Debug.DrawRay(this.transform.position, Vector2.down * 1.7f, Color.red);
 
-        isTouchingFront = Physics2D.OverlapCircle(frontCheck.position, 0.5f, groundMask);
+        
+        isTouchingFront = Physics2D.OverlapCircle(frontCheck.position, 0.8f, groundMask);
         wallSliding = (isTouchingFront && !isTouchingTheGround && horizontalInput != 0);
         animator.SetBool(STATE_SLIDING, wallSliding);
         if (wallSliding)
@@ -73,11 +74,17 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+
     private void FixedUpdate()
     {
         CaptureInput();
         Move();
     }
+    /*private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawSphere(this.transform.position, 0.8f);
+    }*/
 
     void Jump()
     {
@@ -107,7 +114,7 @@ public class PlayerController : MonoBehaviour
 
     bool IsMoving() => rigidBody.velocity.x != 0;
 
-    bool IsTouchingTheGround() => Physics2D.Raycast(this.transform.position, Vector2.down, 1.2f, groundMask);
+    bool IsTouchingTheGround() => Physics2D.Raycast(this.transform.position, Vector2.down, 1.7f, groundMask);
 
     void SetWallJumpingToFalse() => wallJumping = false;
 }
