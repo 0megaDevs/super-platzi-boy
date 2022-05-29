@@ -10,7 +10,11 @@ public class GameManager : MonoBehaviour
 
     public static GameManager instance;
 
+    AudioSource backgroundAudio;
     PlayerController playerController;
+
+    public int totalObjects = 5;
+    public int collectedObjects = 0;
 
     void Awake()
     {
@@ -23,7 +27,10 @@ public class GameManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        backgroundAudio = GetComponent<AudioSource>();
         playerController = GameObject.Find("Player").GetComponent<PlayerController>();
+        GameView.instance.Hide();
+        CreditsView.instance.Hide();
     }
 
     // Update is called once per frame
@@ -57,17 +64,35 @@ public class GameManager : MonoBehaviour
     {
         if(newGameState == GameState.menu)
         {
+            backgroundAudio.Stop();
+            playerController.StartGame();
+            GameView.instance.Hide();
+            CreditsView.instance.Hide();
             MenuManager.instance.ShowMainMenu();
         }
         else if(newGameState == GameState.inGame)
         {
+            backgroundAudio.Play();
             playerController.StartGame();
-            MenuManager.instance.HideMeinMenu();
+            MenuManager.instance.HideMainMenu();
+            GameView.instance.Show();
         }
         else if(newGameState == GameState.gameOver)
         {
-
+            backgroundAudio.Stop();
+            GameView.instance.Hide();
+            CreditsView.instance.Show();
+            playerController.StartGame();
         }
         this.state = newGameState;
+    }
+
+    public void CollectObject(Collectable collectable)
+    {
+        collectedObjects += collectable.value;
+        if(collectedObjects >= totalObjects)
+        {
+            Invoke("GameOver", 5);
+        }
     }
 }

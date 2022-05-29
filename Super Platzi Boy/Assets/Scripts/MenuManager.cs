@@ -20,7 +20,7 @@ public class MenuManager : MonoBehaviour
         mainMenuCanvas.enabled = true;
     }
 
-    public void HideMeinMenu()
+    public void HideMainMenu()
     {
         mainMenuCanvas.enabled = false;
     }
