@@ -33,7 +33,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 126
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -206,7 +206,7 @@ TextureImporter:
       name: better_more_items_4
       rect:
         serializedVersion: 2
-        x: 5369
+        x: 5365
         y: 2583
         width: 559
         height: 773
@@ -249,7 +249,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 4797
-        y: 1778
+        y: 1782
         width: 557
         height: 777
       alignment: 0
@@ -270,7 +270,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 5372
-        y: 1778
+        y: 1782
         width: 556
         height: 777
       alignment: 0
@@ -354,7 +354,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 4797
-        y: 989
+        y: 993
         width: 557
         height: 773
       alignment: 0
@@ -375,7 +375,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 5372
-        y: 992
+        y: 996
         width: 556
         height: 773
       alignment: 0
@@ -479,7 +479,7 @@ TextureImporter:
       name: better_more_items_16
       rect:
         serializedVersion: 2
-        x: 1578
+        x: 1574
         y: 2952
         width: 584
         height: 345
@@ -501,7 +501,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1187
-        y: 1718
+        y: 1725
         width: 563
         height: 779
       alignment: 0
@@ -563,7 +563,7 @@ TextureImporter:
       name: better_more_items_20
       rect:
         serializedVersion: 2
-        x: 2999
+        x: 3006
         y: 1719
         width: 560
         height: 776
@@ -576,6 +576,216 @@ TextureImporter:
       bones: []
       spriteID: 62745d4764d58c94d844a37ec1ec2edc
       internalID: -1298480675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: better_more_items_21
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2584
+        width: 583
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee9cb72b74779149aefa2e922abacea
+      internalID: 307262466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: better_more_items_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2597
+        width: 583
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7884af8aad9cf5d409ee8104a11a90b7
+      internalID: 31060067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: better_more_items_23
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 826
+        width: 751
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e2594e1a15c194a843949c4c4fbbf6
+      internalID: 367795909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: better_more_items_24
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 826
+        width: 532
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23b51bf38863ac4694fd08e788cc575
+      internalID: -1463472775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: better_more_items_25
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1150
+        width: 750
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b5adba75330314b8534529d55736be
+      internalID: -1777501779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: better_more_items_26
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1148
+        width: 531
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6330395492de1d4ab86efcdf093b1ce
+      internalID: -609937157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: better_more_items_27
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 824
+        width: 535
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f581aa668465464429e426c4b649cd55
+      internalID: 465233666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: better_more_items_28
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1167
+        width: 223
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34391cc9f0c8c846a873a2aeef9b9e7
+      internalID: 968222981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: better_more_items_29
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1170
+        width: 229
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cbd82e9dccecb4badd275d2474cdf1
+      internalID: 772135548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: better_more_items_30
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 1170
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363a0d92e0e64ae478ea77ad85a8bff3
+      internalID: 262062354
       vertices: []
       indices: 
       edges: []
@@ -598,16 +808,26 @@ TextureImporter:
       better_more_items_19: 1254678599
       better_more_items_14: 1355604669
       better_more_items_6: 2060343527
+      better_more_items_27: -609937157
       better_more_items_20: 1993094103
       better_more_items_7: 2118285599
       better_more_items_4: -316061922
       better_more_items_12: 2089109898
+      better_more_items_29: 772135548
       better_more_items_17: -2063413479
+      better_more_items_24: 367795909
+      better_more_items_23: -1288966525
       better_more_items_1: -777425882
       better_more_items_5: -1414356552
       better_more_items_3: -1181652332
       better_more_items_2: -44860836
       better_more_items_16: 2122265689
+      better_more_items_22: 31060067
+      better_more_items_21: 307262466
+      better_more_items_30: 262062354
+      better_more_items_26: -1777501779
+      better_more_items_25: -1463472775
+      better_more_items_28: 968222981
       better_more_items_0: -578951930
       better_more_items_18: -1331469026
       better_more_items_9: 1700681735
