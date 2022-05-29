@@ -29,8 +29,12 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if((state == GameState.menu && Input.GetButtonDown("Submit")) || (state == GameState.inGame && Input.GetKeyDown(KeyCode.R))) {
+        if(Input.GetButtonDown("Submit")) {
             StartGame();
+        }
+        if (Input.GetButtonDown("Cancel"))
+        {
+            MenuManager.instance.ExitGame();
         }
     }
 
@@ -53,11 +57,12 @@ public class GameManager : MonoBehaviour
     {
         if(newGameState == GameState.menu)
         {
-
+            MenuManager.instance.ShowMainMenu();
         }
         else if(newGameState == GameState.inGame)
         {
             playerController.StartGame();
+            MenuManager.instance.HideMeinMenu();
         }
         else if(newGameState == GameState.gameOver)
         {
